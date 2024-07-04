@@ -38,7 +38,12 @@ npm run build
 
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
 
-[![Video Placeholder](https://drive.google.com/uc?export=download&id=1TuM3XWr_QERqBECarbZaVGd-RWCkolQ_)](https://drive.google.com/file/d/1TuM3XWr_QERqBECarbZaVGd-RWCkolQ_/view)
+
+
+
+https://github.com/AryanBiswas198/ChatGPT-Writer-Assignment/assets/87803797/55e1ab35-c8e8-4bc2-84b7-3e242fb0b874
+
+
 
 
 
