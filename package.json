@@ -2,8 +2,8 @@
   "name": "linkedin_ai_reply_extension",
   "displayName": "LinkedIn AI Reply",
   "version": "0.0.1",
-  "description": "Plasmo tailwind ts react chrome extension boilerplate",
-  "author": "GorvGoyl",
+  "description": "LinkedIn AI Reply Chrome Extension - built with Plasmo",
+  "author": "Aryan Biswas",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
