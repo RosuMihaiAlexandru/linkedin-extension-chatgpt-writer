@@ -38,5 +38,7 @@ npm run build
 
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
 
-<iframe src="https://drive.google.com/file/d/1TuM3XWr_QERqBECarbZaVGd-RWCkolQ_/view?usp=sharing" width="640" height="480"></iframe>
+[![Video Placeholder](https://drive.google.com/uc?export=download&id=1TuM3XWr_QERqBECarbZaVGd-RWCkolQ_)](https://drive.google.com/file/d/1TuM3XWr_QERqBECarbZaVGd-RWCkolQ_/view)
+
+
 
