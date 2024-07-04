@@ -1,5 +1,9 @@
 # ChatGPT Writer Take-Home Coding Assignment
 
+
+https://github.com/AryanBiswas198/ChatGPT-Writer-Assignment/assets/87803797/55e1ab35-c8e8-4bc2-84b7-3e242fb0b874
+
+
 https://chatgptwriter.ai
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
@@ -37,13 +41,3 @@ npm run build
 ```
 
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
-
-
-
-
-https://github.com/AryanBiswas198/ChatGPT-Writer-Assignment/assets/87803797/55e1ab35-c8e8-4bc2-84b7-3e242fb0b874
-
-
-
-
-
